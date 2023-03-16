@@ -16,7 +16,7 @@ verified the user has the functions like signout and changepassword.
 I used sessions for userlogin.It enables the user Once user signin in a tab, he is logged in the browser and user is able to login
 on any tab directly
 
-a safe for passwords
+a safe for passwords :
 this website that saves your passwords for your various accounts on different platforms. To make sure your passwords remain safe on this website, I used an encryption algorithm, which will encode them. the project admin can also see those passwords directly on the site. Password safes are quite useful, and there are multiple tools available from which you can take inspiration to work on this project. 
 
 The user has the functions like store,update passwords on fields of passwords
